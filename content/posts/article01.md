@@ -2,7 +2,7 @@
 title: "示例文章"
 date: 2026-07-30
 draft: false
-author: "yourname"
+author: "Wan Quan"
 tags:
   - Hugo
   - PaperMod
