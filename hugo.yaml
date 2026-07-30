@@ -1,6 +1,6 @@
 baseURL: https://wanquan1991.github.io/
 locale: en-us
-title: My New Hugo Project
+title: Wan Quan's Project
 theme: PaperMod
 
 pagination:
@@ -17,14 +17,14 @@ minify:
 
 params:
   env: production
-  author: "yourname"
+  author: "Wan Quan"
   defaultTheme: auto
   disableThemeToggle: false
 
   homeInfoParams:
     Title: "My Blog"
     Content: >
-      记录开发过程中的问题、排查与实现。
+      记录生活中的想法，记录开发过程中的问题、排查与实现。
 
   ShowReadingTime: true
   ShowShareButtons: false
