@@ -2,7 +2,7 @@
 date: '2026-07-30T21:50:23+08:00'
 draft: false
 title: 'Article02'
-author: "yourname"
+author: "Wan Quan"
 tags:
   - Hugo
 categories:
