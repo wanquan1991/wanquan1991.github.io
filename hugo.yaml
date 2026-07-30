@@ -4,7 +4,7 @@ title: Wan Quan's Project
 theme: PaperMod
 
 pagination:
-  pagerSize: 5
+  pagerSize: 15
 
 enableRobotsTXT: true
 buildDrafts: false
