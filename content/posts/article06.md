@@ -4,7 +4,7 @@ draft: false
 title: '玩弄格式和内容'
 author: "Wan Quan"
 tags:
-  - Test
+  - 测试
 categories:
   - 博客搭建
 summary: " 折腾是人类的本质。"

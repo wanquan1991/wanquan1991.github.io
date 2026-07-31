@@ -1,10 +1,11 @@
 ---
 date: 2026-07-30T22:50:23+08:00
 draft: false
-title: 'Article03'
+title: '刚搞好玩一下'
 author: "Wan Quan"
 tags:
   - Hugo
+  - 测试
 categories:
   - 博客搭建
 summary: " 搭载好了之后玩一下。"
