@@ -28,7 +28,7 @@ ok了。
 ```
 git add .
 git commit -m " something"
-git push --set-upstream origin main 
+git push --set-upstream origin main  #git push -u origin main 也可以
 ```
 
 ## obsidian
