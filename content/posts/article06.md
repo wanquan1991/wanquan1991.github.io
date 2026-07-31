@@ -26,3 +26,5 @@ git add .
 git commit -m " something"
 git push --set-upstream origin main 
 ```
+# obsidian 
+obsidian编辑会在文件夹下面产生一些工程文件。
