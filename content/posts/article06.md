@@ -35,8 +35,6 @@ git push --set-upstream origin main
 
 obsidian编辑会在文件夹下面产生一些工程文件。
 
-
-
 # marktext
 
-试一下怎么样
+试一下怎么样，试了一下，可以，不会有冗余的文件产生，好过用obsidian来写，obsidian还是适合管理本地的仓库。
