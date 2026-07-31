@@ -24,7 +24,7 @@ params:
   homeInfoParams:
     Title: "My Blog"
     Content: >
-      记录生活中的想法，记录开发过程中的问题、排查与实现。好吧，我摊牌了，就是找个地方扯淡。
+      记录生活中的想法，记录诊疗中的思考，记录开发过程中的问题、排查与实现。好吧，我摊牌了，就是找个地方扯淡。
 
   ShowReadingTime: true
   ShowShareButtons: false
