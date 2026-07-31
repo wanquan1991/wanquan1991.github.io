@@ -1,7 +1,7 @@
 ---
 title: ""
 date: {{ .Date }}
-lastmod: {{ .Date }}
+#lastmod: {{ .Date }}
 draft: false
 description: ""
 tags: []
