@@ -19,3 +19,10 @@ summary: " 折腾是人类的本质。"
 # 流程
 自己在vs code里面写，写完了ctrl+s ，hugo server 检查一下，然后用github desktop 来push。
 ok了。
+
+# 如果是命令行
+```
+git add .
+git commit -m " something"
+git push --set-upstream origin main 
+```
