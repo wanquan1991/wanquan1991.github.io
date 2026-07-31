@@ -20,7 +20,7 @@ summary: " 折腾是人类的本质。"
 
 # 流程
 
-自己在vs code里面写，写完了ctrl+s ，hugo server 检查一下，然后用github desktop 来push。
+自己在vs code里面写，写完了ctrl+s ，其实ctrl+shift+v 可以查看md渲染的效果，hugo server 检查一下在线博客的效果，然后用github desktop 来push。
 ok了。
 
 # 如果是命令行
@@ -48,6 +48,9 @@ obsidian编辑会在文件夹下面产生一些工程文件。
 
 # 下一步的拟解决的问题
 新建文件的时候 有个front matter的模板
+
+# 测试
+停掉网络代理之后，看看能不能直接push
 
 # 写在最后 
 应该要牢记，自己不是coder，而要做一个内容创作者才行。
