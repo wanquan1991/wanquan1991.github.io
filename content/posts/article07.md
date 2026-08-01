@@ -1,7 +1,7 @@
 ---
 title: "新的文章"
 date: 2026-07-31T14:36:34+08:00
-lastmod: 2026-07-31T14:36:34+08:00
+lastmod: 2026-07-31T14:36:34+08:00 
 draft: false
 description: "又是一次新建测试"
 tags: 

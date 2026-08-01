@@ -17,6 +17,8 @@ author: "万全"
 3. 在CC-Switch 进行配置
    ![cc](https://pic1.zhimg.com/v2-07d760410ee76e5276c1425047ccf852_1440w.jpg)
 4. 使用的是https://console.aihubmix.com/，申请API，也可以使用其他模型如DeepSeek等。原本应该要开启本地路由才能启用，但是开启失误，并没有排除故障。
-5. 重新打开Codex，甚至没有要求密钥登陆，直接就可以用了。
+   ![](https://pica.zhimg.com/v2-8869587dcb7db2dffe27af81ccb23614_1440w.jpg)
+5. 重新打开Codex，我操作中甚至没有要求密钥登陆，直接就可以用了。
+![](https://pica.zhimg.com/v2-2a106cba74b51cbf93331b27198aa1ac_1440w.jpg)
 
 
