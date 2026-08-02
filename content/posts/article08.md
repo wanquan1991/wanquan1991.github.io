@@ -21,4 +21,4 @@ author: "万全"
 5. 重新打开Codex，我操作中甚至没有要求密钥登陆，直接就可以用了。
 ![](https://pica.zhimg.com/v2-2a106cba74b51cbf93331b27198aa1ac_1440w.jpg)
 
-
+6. 开了个对话，发现其实不行。想了想在所有的教程基本上让配置api的站点，归根究底，还是要花钱买token。那么还是用deepseek接入好了，直接去deepseek官网配置api，冲了10块钱，在cc switch上面配置好key，接入，用brainstorming写了个综述，也就几毛钱。 
