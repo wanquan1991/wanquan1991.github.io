@@ -20,7 +20,16 @@ summary: " 折腾是人类的本质。"
 
 ## 流程
 
-自己在vs code里面写，写完了ctrl+s ，其实ctrl+shift+v 可以查看md渲染的效果，hugo server 检查一下在线博客的效果，然后用github desktop 来push。
+自己在vs code里面写，常用命令基本就两条，一个是新建
+```
+hugo new posts/xxxx.md
+```
+
+写完了ctrl+s ，其实ctrl+shift+v 可以查看md渲染的效果，
+```
+hugo server 
+```
+检查一下在线博客的效果，然后用github desktop 来push。
 ok了。
 
 ## 如果是命令行
@@ -30,6 +39,7 @@ git add .
 git commit -m " something"
 git push --set-upstream origin main  #git push -u origin main 也可以
 ```
+不过不知道为啥，直接在vs code里面推送，总是推不动。
 
 ## obsidian
 
