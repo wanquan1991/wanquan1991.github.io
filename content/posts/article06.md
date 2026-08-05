@@ -38,6 +38,15 @@ ok了。
 git add .
 git commit -m " something"
 git push --set-upstream origin main  #git push -u origin main 也可以
+
+git init  # 在你本地的文件夹里，说“这地方归我管了！”
+git add . # 把文件夹里所有改动的东西都打包，准备寄快递
+git commit -m "我今天写了xxx功能" #给你的快递写个备注，不然以后鬼知道你寄了啥
+git remote add origin [你的仓库链接] #告诉你这个快递要寄到哪儿
+git push origin master # 点击“发送”按钮，把快递寄出去
+
+
+
 ```
 不过不知道为啥，直接在vs code里面推送，总是推不动。
 
