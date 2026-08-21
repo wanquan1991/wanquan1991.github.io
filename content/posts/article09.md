@@ -6,7 +6,6 @@ draft: false
 description: "如题，搞了个图床"
 tags: 
 - hugo
-- 测试
 categories: [博客搭建]
 author: "万全"
 ---

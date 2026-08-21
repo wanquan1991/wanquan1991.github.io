@@ -8,7 +8,7 @@ tags:
   - PaperMod
 categories:
   - 博客搭建
-  - 测试
+  
 summary: "这是一篇示例文章。"
 ---
 
