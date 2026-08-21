@@ -11,19 +11,22 @@ categories:
 author: "万全"
 ---
 
+
 ## 文档
 - Microsoft Office全家桶
 - libreoffice
-- calibre
-- obsidian
+- voleOffice 
+- [calibre](https://calibre-ebook.com/zh_CN/download)
+- obsidian  自己的库在OneDrive里面，并且nutshare插件同步到坚果云上面。
 - zotero 文献管理
+  - add on market 
 - Adobe acrobat
 - freeplane 思维导图工具
 - Anki
 
 ## 软件管理
 - scoop
-  - ffmpeg
+  - ffmpeg  最好还是配一个 ffmpeg desktop
   - hugo  博客
   - openlist 网盘管理
   - git
@@ -49,9 +52,14 @@ author: "万全"
 - [localsend](https://localsend.org/)   局域网文件传输
 - 百度网盘
 - Internet Download Manager
+- [Geek Uninstaller](https://geekuninstaller.com/download) 软件卸载
+
+## 微软商店下载
+- OneQuick
+- Watt Toolkit
 
 ## 个人博客相关
-- PicGo
+- [PicGo](https://picgo.app/)  图床软件，配合cloudflare r2
 - Visual Studio Code
 - Github Desktip 注意使用ssh
 - Git
@@ -64,3 +72,4 @@ author: "万全"
 
 ## 系统
 - [win11debloat](https://github.com/Raphire/Win11Debloat) Windows 系统冗余组件清理 别人推荐但是我还用过。
+- [everythingtoolbar](https://github.com/srwi/EverythingToolbar) 将everything搜索放到资源管理器上。不过我用了directoryOpus 就已经是整合的了。
