@@ -26,6 +26,8 @@ author: "万全"
   - ffmpeg
   - hugo  博客
   - openlist 网盘管理
+  - git
+  - tortoisegit
 
 
 ## 专业软件
@@ -44,7 +46,7 @@ author: "万全"
 - bandizip
 - ditto
 - freefilesync  文件同步工具
-- localsend   局域网文件传输
+- [localsend](https://localsend.org/)   局域网文件传输
 - 百度网盘
 - Internet Download Manager
 
@@ -53,6 +55,7 @@ author: "万全"
 - Visual Studio Code
 - Github Desktip
 - Git
+- cloudflare one client
 
 ## 娱乐
 - steam
@@ -60,4 +63,4 @@ author: "万全"
 - uplay
 
 ## 系统
-- !(win11debloat)[https://github.com/Raphire/Win11Debloat] Windows 系统冗余组件清理 别人推荐但是我还用过。
+- [win11debloat](https://github.com/Raphire/Win11Debloat) Windows 系统冗余组件清理 别人推荐但是我还用过。
