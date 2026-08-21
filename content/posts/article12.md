@@ -53,7 +53,7 @@ author: "万全"
 ## 个人博客相关
 - PicGo
 - Visual Studio Code
-- Github Desktip
+- Github Desktip 注意使用ssh
 - Git
 - cloudflare one client
 
