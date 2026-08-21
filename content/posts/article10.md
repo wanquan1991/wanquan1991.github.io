@@ -4,8 +4,9 @@ date: 2026-08-17T13:15:58+08:00
 #lastmod: 2026-08-17T13:15:58+08:00
 draft: false
 description: "朋友的朋友要结婚了"
-tags: [生活]
-categories: [生活]
+tags:
+categories:
+- 生活随笔
 author: "万全"
 ---
 
