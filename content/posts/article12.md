@@ -12,14 +12,14 @@ author: "万全"
 ---
 
 
-## 文档
+## 各种Office
 - Microsoft Office全家桶
-- libreoffice
+- libreOffice
 - voleOffice 
+
+## 文档处理
 - [calibre](https://calibre-ebook.com/zh_CN/download)
 - obsidian  自己的库在OneDrive里面，并且nutshare插件同步到坚果云上面。
-- zotero 文献管理
-  - add on market 
 - Adobe acrobat
 - freeplane 思维导图工具
 - Anki
@@ -33,26 +33,18 @@ author: "万全"
   - tortoisegit
 
 
-## 专业软件
+## 专业和科研
 - Mimics
 - ProPlan
 - 3Dslicer
 - Geomagic
 - Radiant Dicom 医学图像查看软件
+- zotero 文献管理，神TM一年三次大版本更新，插件还不一定跟得上，不能随便升级
+  - add on market 
   
 
 ## PC相关
-- powertoys
-- foxmail
-- SSRdog
-- Everything
-- bandizip
-- ditto
-- freefilesync  文件同步工具
-- [localsend](https://localsend.org/)   局域网文件传输
-- 百度网盘
-- Internet Download Manager
-- [Geek Uninstaller](https://geekuninstaller.com/download) 软件卸载
+
 
 ## 微软商店下载
 - OneQuick
@@ -69,7 +61,24 @@ author: "万全"
 - steam
 - battlenet暴雪战网
 - uplay
+- [老男人游戏网](oldmanemu.net) 模拟器游戏rom
+  - Visualboy Advance
+  - PPSSPP   PSP模拟器
+  - DeSmuME  NDS模拟器
+  - Citra   3DS模拟器
 
 ## 系统
 - [win11debloat](https://github.com/Raphire/Win11Debloat) Windows 系统冗余组件清理 别人推荐但是我还用过。
 - [everythingtoolbar](https://github.com/srwi/EverythingToolbar) 将everything搜索放到资源管理器上。不过我用了directoryOpus 就已经是整合的了。
+- Powertoys 
+- foxmail
+- SSRdog
+- Everything
+- bandizip 压缩包处理 
+- 7zip
+- ditto 剪贴板
+- freefilesync  文件同步工具
+- [localsend](https://localsend.org/)   局域网文件传输
+- 百度网盘
+- Internet Download Manager
+- [Geek Uninstaller](https://geekuninstaller.com/download) 软件卸载
