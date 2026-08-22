@@ -23,6 +23,7 @@ author: "万全"
 - Adobe acrobat
 - freeplane 思维导图工具
 - Anki
+- marktext  免费软件，可以作为typora的替代，不过我都是直接用obsidian。
 
 ## 软件管理
 - scoop
@@ -30,7 +31,7 @@ author: "万全"
   - hugo  博客
   - openlist 网盘管理
   - git
-  - tortoisegit
+  - tortoisegit 要安装中文的language pack
 
 
 ## 专业和科研
@@ -41,14 +42,14 @@ author: "万全"
 - Radiant Dicom 医学图像查看软件
 - zotero 文献管理，神TM一年三次大版本更新，插件还不一定跟得上，不能随便升级
   - add on market 
+  - 茉莉花
+  - style
+  - scihub
   
-
-## PC相关
-
 
 ## 微软商店下载
 - OneQuick
-- Watt Toolkit
+- Watt Toolkit  相当于steam，origin，github的翻墙。
 
 ## 个人博客相关
 - [PicGo](https://picgo.app/)  图床软件，配合cloudflare r2
@@ -71,7 +72,7 @@ author: "万全"
 - [win11debloat](https://github.com/Raphire/Win11Debloat) Windows 系统冗余组件清理 别人推荐但是我还用过。
 - [everythingtoolbar](https://github.com/srwi/EverythingToolbar) 将everything搜索放到资源管理器上。不过我用了directoryOpus 就已经是整合的了。
 - Powertoys 
-- foxmail
+- foxmail 基本上只用来挂QQ邮箱，不过自己用网页端用惯了
 - SSRdog
 - Everything
 - bandizip 压缩包处理 
