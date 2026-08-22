@@ -3,7 +3,7 @@ title: "图床建设"
 date: 2026-08-02T13:15:58+08:00
 #lastmod: 2026-08-02T13:15:58+08:00
 draft: false
-description: "如题，搞了个图床"
+summary: "如题，搞了个图床"
 tags: 
 - hugo
 categories: [博客搭建]

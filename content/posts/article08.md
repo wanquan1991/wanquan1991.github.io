@@ -3,7 +3,7 @@ title: "Codex 国内使用"
 date: 2026-08-02T00:06:51+08:00
 #lastmod: 2026-08-02T00:06:51+08:00
 draft: false
-description: "在自己电脑上成功的安装codex 并且使用的方法"
+summary: "在自己电脑上成功的安装codex 并且使用的方法"
 tags: [AI]
 categories: [计算机]
 author: "万全"

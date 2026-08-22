@@ -3,7 +3,7 @@ title: "Windows配置"
 date: 2026-08-21T22:02:44+08:00
 #lastmod: 2026-08-21T22:02:44+08:00
 draft: false
-description: "如果我有一台新的windows"
+summary: "如果我有一台新的windows"
 tags: 
 - 
 categories: 
