@@ -50,6 +50,7 @@ author: "万全"
 ## 微软商店下载
 - OneQuick
 - Watt Toolkit  相当于steam，origin，github的翻墙。
+- Potplayer
 
 ## 个人博客相关
 - [PicGo](https://picgo.app/)  图床软件，配合cloudflare r2
