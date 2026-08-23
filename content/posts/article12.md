@@ -83,3 +83,5 @@ author: "万全"
 - 百度网盘
 - Internet Download Manager
 - [Geek Uninstaller](https://geekuninstaller.com/download) 软件卸载
+- Faststone capture 录屏软件
+- Bigpic 图片放大，有网页端口，有API
