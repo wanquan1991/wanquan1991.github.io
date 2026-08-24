@@ -86,3 +86,13 @@ author: "万全"
 - [Geek Uninstaller](https://geekuninstaller.com/download) 软件卸载
 - Faststone capture 录屏软件
 - Bigpic 图片放大，有网页端口，有API
+
+
+## 系统进一步处理
+
+打开Windows Terminal，输入
+```
+winget uninstall "Windows web experience Pack"
+```
+这条指令会删除Windows的一个废案组件，现在你完全不需要用到
+它。这么做可以有效减少内存开销。
