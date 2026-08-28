@@ -18,3 +18,4 @@ author: "万全"
 
 拿个图测试一下
 ![wuhu](https://photos.wanquan.org/{Y}/{m}/f7d8a0e9714bd427a4f86a6d5e174c83)
+这么说就是ok了。哈哈哈。
